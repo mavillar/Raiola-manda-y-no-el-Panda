@@ -1,4 +1,4 @@
-# Raiola-manda-y-no-el-Panda
+# Raiola manda y no el Panda
 Script para instalación en un servidor y poder conseguir que Raiola mande y no el Panda.
 
 Ultimamente, Panda se está volviendo bastante caprichoso con el tema del contenido y claro, mucha veces descuidamos aspectos que hay que instalar en un servidor de Raiola y hacer que nuestra página web tenga ese turbo tan grande que nos permita estar a salvos de esas penalizaciones que el dichoso algoritmo nos tiene tan al hacecho.
