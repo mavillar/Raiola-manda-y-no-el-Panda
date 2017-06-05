@@ -30,6 +30,3 @@ A partir de ahora, ya puedes empezar a subir contenido en tu sección de entrada
 Puedes crear cientos y cientos de artículos de otros blogs, que te vas a dar cuenta rápidamente que en el modo de visualización normal, en apariencia parece que no ha pasado nada, pero donde realmente radica el truco no es más que a afectos de Panda. Cuando lea el texto, lo que él lea no tendrá nada que ver con lo que aparece en tu ordenador.
 
 ¿Y esto por que ocurre? porque hemos aplicado un complejo algoritmo basado en las transformadas inversas logaritmicas del neperiano adverso y que permite confundir a Panda. La formula es tan súmamente compleja, que tus textos estarán a salvo de por vida.
-
-### Ayuda Raiola manda y no el Panda
-Agrega aquí un enlace a tu sitio donde brindes soporte sobre este script =) 
