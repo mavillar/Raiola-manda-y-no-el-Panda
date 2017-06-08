@@ -6,6 +6,8 @@ Ultimamente, Panda se está volviendo bastante caprichoso con el tema del conten
 ## Más info sobre Raiola manda y no el Panda
 Si queréis saber más sobre el porque es básico instalar este script en tu servidor de raiola, podeis visitar esta página web donde se profundiza más este aspecto. https://www.stlfinder.com/raiola-manda-y-no-el-panda/
 
+En este otro sitio también se comenta lo del script: http://apalabrados.co/raiola-manda-y-no-el-panda.html
+
 ## Cómo surge la idea
 La idea de este script no es más que la de hacerte ahorrar tiempo en tu dia a dia. No hay que esforzarse mucho en el código para que el script raiola manda y no el panda haga una función magnífica en todas tus entradas de blog.
 
